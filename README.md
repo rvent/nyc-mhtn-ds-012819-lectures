@@ -17,5 +17,21 @@
 | 9. API & JSON | [Code]() | [Video]() |
 | 10. Webscraping | [Code]() | [Video]() |
 | 11. XML and CSS| [Code]() | [Video ]() |
-| 12. Pandas I | [Code]() | [Video]() |
-| 13. Pandas II | [Code]() | [Video]() |
+| 12. Pandas I | [Code](https://github.com/learn-co-students/nyc-mhtn-ds-012819-lectures/blob/master/Module_1/Pandas/Pandas_I.ipynb) | [Video]() |
+| 13. Pandas II | [Code](https://github.com/learn-co-students/nyc-mhtn-ds-012819-lectures/blob/master/Module_1/Pandas/Pandas_II.ipynb) | [Video]() |
+
+## Module 2 💖
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| 1. SQL I | [Code](https://github.com/learn-co-students/nyc-mhtn-ds-012819-lectures/blob/master/Module_2/Intro_SQL/Intro_to_Sql.ipynb) | [Video]() |
+| 2. SQLite II| [Code]() | [Video]() |
+| 3. Statistical Distribution I: The Gaussian Distribution| [Code]()|
+| 4. Statistical Distribution II | [Code]() |
+| 5. Hypothesis Testing | [Code]() |
+| 6. Z Test and T test | [Code]() |
+| 7. Statistical Power, Errors and Effect Size | [Code]() | [Video]() |
+| 8. Conditional Probability I - Thinking Bayesian | [Code]() | [Video]() |
+| 9. Conditional Probability II - Bayesian Application| [Code]() | [Video]() |
+| 10. Linear Regression I: Basic LR and cost function| [Code]() | [Video]() |
+| 11. Linear Regression II: Multiple Linear Regression| [Code]() | [Video]()|
+| 12. Regularization| [Code]() | [Video]() |
